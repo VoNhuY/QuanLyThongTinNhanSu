@@ -1,0 +1,17 @@
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\Persistence\bin\Debug\net8.0\Persistence.deps.json
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\Persistence\bin\Debug\net8.0\Persistence.dll
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\Persistence\bin\Debug\net8.0\Persistence.pdb
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\Persistence\bin\Debug\net8.0\Entities.dll
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\Persistence\bin\Debug\net8.0\Entities.pdb
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\Persistence\obj\Debug\net8.0\Persistence.dll
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\Persistence\bin\Debug\net8.0\Persistence.runtimeconfig.json
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache

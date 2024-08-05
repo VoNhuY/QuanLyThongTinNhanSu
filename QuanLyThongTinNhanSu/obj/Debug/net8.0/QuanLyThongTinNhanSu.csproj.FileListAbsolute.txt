@@ -1,0 +1,11 @@
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\QuanLyThongTinNhanSu\bin\Debug\net8.0\QuanLyThongTinNhanSu.deps.json
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\QuanLyThongTinNhanSu\bin\Debug\net8.0\QuanLyThongTinNhanSu.dll
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\QuanLyThongTinNhanSu\bin\Debug\net8.0\QuanLyThongTinNhanSu.pdb
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\QuanLyThongTinNhanSu\obj\Debug\net8.0\QuanLyThongTinNhanSu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\QuanLyThongTinNhanSu\obj\Debug\net8.0\QuanLyThongTinNhanSu.AssemblyInfoInputs.cache
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\QuanLyThongTinNhanSu\obj\Debug\net8.0\QuanLyThongTinNhanSu.AssemblyInfo.cs
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\QuanLyThongTinNhanSu\obj\Debug\net8.0\QuanLyThongTinNhanSu.csproj.CoreCompileInputs.cache
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\QuanLyThongTinNhanSu\obj\Debug\net8.0\QuanLyThongTinNhanSu.dll
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\QuanLyThongTinNhanSu\obj\Debug\net8.0\refint\QuanLyThongTinNhanSu.dll
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\QuanLyThongTinNhanSu\obj\Debug\net8.0\QuanLyThongTinNhanSu.pdb
+D:\Workspace\dotnet-asp\QuanLyThongTinNhanSu\QuanLyThongTinNhanSu\obj\Debug\net8.0\ref\QuanLyThongTinNhanSu.dll
